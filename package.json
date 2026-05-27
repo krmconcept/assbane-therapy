@@ -1,0 +1,22 @@
+{
+  "name": "assbane-therapy",
+  "version": "1.0.0",
+  "description": "Site vitrine du cabinet Assbane Therapy — kinésithérapie, ostéopathie, acupuncture",
+  "private": true,
+  "scripts": {
+    "build": "node build.js",
+    "start": "npx --yes serve dist -l 3000"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "static-site",
+    "html",
+    "kinesitherapie",
+    "osteopathie",
+    "acupuncture"
+  ],
+  "author": "KRM Concept",
+  "license": "UNLICENSED"
+}

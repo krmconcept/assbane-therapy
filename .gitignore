@@ -21,3 +21,7 @@ npm-debug.log*
 *.tmp
 *.bak
 ~$*
+
+# Build output
+dist/
+node_modules/
